@@ -6,7 +6,7 @@ Steps taken:
 
 1. Traced the logo manually in Sketch and exported as SVG
 2. Use plain JS `getTotalLength()` and `getPointAtLength()` methods to calculate coordinates of path
-3. Draw for each point a <div> - this is super slow unfortunately but not noticeable in the end product
+3. Draw for each point a `<div>` - this is super slow unfortunately but not noticeable in the end product
 4. Use `interpolateColors` and `spring` functions to animate
 
 ![Logo Animation](out.gif)
