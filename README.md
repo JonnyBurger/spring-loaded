@@ -57,4 +57,4 @@ Found an issue with Remotion? [File an issue here](https://github.com/JonnyBurge
 
 ## License
 This code: MIT  
-The Remotion license: Notice that for some entities a company license is needed. Read [the terms here](https://github.com/JonnyBurger/remotion/blob/main/LICENSE.md).
+The Remotion license: Note that for some entities a company license is needed. Read [the terms here](https://github.com/JonnyBurger/remotion/blob/main/LICENSE.md).

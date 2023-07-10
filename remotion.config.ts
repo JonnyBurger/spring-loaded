@@ -1,3 +1,4 @@
-import {Config} from 'remotion';
+import {Config} from '@remotion/cli/config';
 
-Config.Rendering.setImageFormat('jpeg');
+Config.setVideoImageFormat('jpeg');
+
